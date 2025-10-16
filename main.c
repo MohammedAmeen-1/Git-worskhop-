@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    printf("TMKBFJG");
+    printf("TMKBFJ");
+    printf("GLHF");
+    
     return 0;
 }
